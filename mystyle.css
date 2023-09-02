@@ -1,0 +1,23 @@
+    /*.sss{
+      text-align: center;
+      display: inline-block;
+      padding: 5px;
+      font-size: x-large;
+      background-color: lightcoral;
+    }*/
+    #app{
+      display: inline-block;
+      padding: 24.5px;
+      font-size: x-large;
+      background-color: rgb(112, 194, 214);
+    }
+    button{
+      padding:10px;
+      font-size:x-large;
+      background-color: aqua;
+    }
+    .chgTxt{
+      font-size:x-large;
+      background-color: bisque;
+      padding: 18.5px;
+    }
